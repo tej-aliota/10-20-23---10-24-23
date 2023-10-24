@@ -55,3 +55,8 @@ Polymorphism: if a class inherits from another class, it can also be considered 
 Subclass: inherits the properties of another class and adds some specialised methods of its own
 
 Superclass: provides methods and attributes that are used by another class
+
+
+The thing that I worked on was this game. It is made of different rooms and characters. In the picture below you can see the progress I have.
+Later as I keep working on it, I would like to include more movement and more features to truly make the game playable.
+<img width="2240" alt="Screen Shot 2023-10-24 at 2 13 17 PM" src="https://github.com/tej-aliota/10-20-23---10-24-23/assets/142935901/095be2f0-409d-4913-9887-48ebb00b79c0">
